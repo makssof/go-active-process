@@ -4,9 +4,9 @@ This package allows you to get information (process filename) about the currentl
 
 > Note: works only on Windows OS!
 
-[![GoDoc](https://godoc.org/github.com/makssof/go-active-process?status.svg)](https://godoc.org/github.com/makssof/retrool)
-[![Release](https://img.shields.io/github/v/release/makssof/go-active-process.svg)](https://github.com/makssof/retrool/releases/)
-[![License](https://img.shields.io/github/license/makssof/go-active-process.svg)](https://github.com/makssof/retrool/blob/master/LICENSE)
+[![GoDoc](https://godoc.org/github.com/makssof/go-active-process?status.svg)](https://godoc.org/github.com/makssof/go-active-process)
+[![Release](https://img.shields.io/github/v/release/makssof/go-active-process.svg)](https://github.com/makssof/go-active-process/releases/)
+[![License](https://img.shields.io/github/license/makssof/go-active-process.svg)](https://github.com/makssof/go-active-process/blob/master/LICENSE)
 
 ## Content
 
